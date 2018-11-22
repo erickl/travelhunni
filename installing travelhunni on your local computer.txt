@@ -1,0 +1,4 @@
+Running travelhunni locally:
+	1. git clone <link>
+	2. install and add dependencies (have to figure this one out next time)
+	3. goto src folder and run 'npm start' (browser window will open)
